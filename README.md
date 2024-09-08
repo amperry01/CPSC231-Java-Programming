@@ -1,8 +1,6 @@
 AUTHOR INFO
 
-Full name: Alyssa Perry 
-
-Chapman Email: alperry@chapman.edu 
+Full name: Alyssa Perry | Chapman Email: alperry@chapman.edu 
 
 
 OVERVIEW
