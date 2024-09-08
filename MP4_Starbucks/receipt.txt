@@ -1,0 +1,32 @@
+-------------------- 
+name: joe
+total cost: $37.05
+drink 1: 
+ size: grande
+ base: chai
+ chai latte? false
+ cost: $3.45
+drink 2: 
+ size: venti
+ base: chai
+ chai latte? true
+ cost: $5.75
+drink 3: 
+ size: grande
+ base: black tea
+ london fog? false
+ cost: $3.45
+drink 4: 
+ size: tall
+ base: green tea
+ matcha green tea? false
+ cost: $3.25
+drink 5: 
+venti coffee: $4.0
+drink 6: 
+tall americano with 2 espressos: $4.5
+drink 7: 
+grande white chocolate iced mocha: $6.45
+drink 8: 
+venti whole milk iced latte: $6.2
+
