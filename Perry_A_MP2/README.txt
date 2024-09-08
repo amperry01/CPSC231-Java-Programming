@@ -1,6 +1,5 @@
 AUTHOR INFO
 Full name: Alyssa Perry 
-Student ID: 2347996
 Chapman Email: alperry@chapman.edu 
 Course number and section: CPSC-231-05
 Assignment or exercise number: MP1: Chipotle Ordering System
