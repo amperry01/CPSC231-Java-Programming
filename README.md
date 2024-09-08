@@ -12,6 +12,9 @@ PROJECTS
 MP4_Starbucks: 
 A java program that mimics a simple Starbucks ordering system for 3 different types of tea and 4 different types of coffee. 
 
+Perry_A_MP1: 
+A simple java project that can mirror and flip a 2D char array image
+
 Perry_A_MP2: 
 A java program that has 2 classes to represent objects that would be used in a Chipotle ordering system. 
 These classes are used in a Driver class which will create a few orders for Burritos.
